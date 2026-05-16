@@ -1,13 +1,13 @@
 Sub Create_vCard_File()
 ' Excel VBA Macro Code
 ' v1.0.191116
-' Use this macro code in akcanSoft XLS to VCF.xlsm file ( https://github.com/akcansoft/XLS-to-VCF )
+' Use this macro code in akcanSoft XLS to VCF.xlsm file ( https://github.com/mesutakcan/XLS-to-VCF )
 
 ' 16/11/2019
 ' Mesut Akcan
 ' makcan@gmail.com
-' akcansof.blogspot.com
-' https://github.com/akcansoft/XLS-to-VCF
+' mesutakcan.blogspot.com
+' https://github.com/mesutakcan/XLS-to-VCF
 ' youtube.com/mesutakcan
 
 Dim fso, fs
