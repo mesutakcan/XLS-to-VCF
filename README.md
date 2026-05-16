@@ -1,4 +1,4 @@
-# akcanSoft XLS-to-VCF
+# XLS-to-VCF Converter
 
 This Excel file exports contact information from a table to a standard `.vcf` (vCard) file format. It allows you to easily import your contacts in bulk to your phonebook or email client.
 
@@ -47,7 +47,7 @@ The VBA macro automates the entire process:
 ## Contacts
 
 Mesut Akcan  
-**Blog:** https://akcanSoft.blogspot.com | https://mesutakcan.blogspot.com  
+**Blog:** https://mesutakcan.blogspot.com  
 **YouTube:** www.youtube.com/mesutakcan
 
 ## ⭐ Support & Feedback
